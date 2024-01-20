@@ -16,6 +16,7 @@
 		9DE1E8A22B57BFAE009A9630 /* Framework.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE1E8A12B57BFAE009A9630 /* Framework.swift */; };
 		9DE429832B5B7C6E00A1188A /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE429822B5B7C6E00A1188A /* FrameworkGridViewModel.swift */; };
 		9DE429852B5B7D6A00A1188A /* FrameworkGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE429842B5B7D6A00A1188A /* FrameworkGridView.swift */; };
+		9DE429872B5BAA4B00A1188A /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE429862B5BAA4B00A1188A /* SafariView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		9DE1E8A12B57BFAE009A9630 /* Framework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Framework.swift; sourceTree = "<group>"; };
 		9DE429822B5B7C6E00A1188A /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
 		9DE429842B5B7D6A00A1188A /* FrameworkGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridView.swift; sourceTree = "<group>"; };
+		9DE429862B5BAA4B00A1188A /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				9DE1E8952B57BF19009A9630 /* ContentView.swift */,
 				9DE429822B5B7C6E00A1188A /* FrameworkGridViewModel.swift */,
 				9DDA0A162B595EFC00A207C5 /* FrameworkDetailView.swift */,
+				9DE429862B5BAA4B00A1188A /* SafariView.swift */,
 				9DDA0A182B59642600A207C5 /* AFButton.swift */,
 				9DE1E8972B57BF1A009A9630 /* Assets.xcassets */,
 				9DE1E8992B57BF1A009A9630 /* Preview Content */,
@@ -156,6 +159,7 @@
 				9DE1E8962B57BF19009A9630 /* ContentView.swift in Sources */,
 				9DE1E8A22B57BFAE009A9630 /* Framework.swift in Sources */,
 				9DDA0A192B59642600A207C5 /* AFButton.swift in Sources */,
+				9DE429872B5BAA4B00A1188A /* SafariView.swift in Sources */,
 				9DE1E8942B57BF19009A9630 /* appleframeworksApp.swift in Sources */,
 				9DE429832B5B7C6E00A1188A /* FrameworkGridViewModel.swift in Sources */,
 				9DE429852B5B7D6A00A1188A /* FrameworkGridView.swift in Sources */,
