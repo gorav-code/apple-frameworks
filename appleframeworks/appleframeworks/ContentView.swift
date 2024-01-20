@@ -9,7 +9,12 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View{
-        FrameworkGridView()
+        
+        //Show Apple Frameworks in Grid View
+        //FrameworkGridView()
+        
+        //Show Apple Frameworks in Row View
+        FrameworkRowView()
     }
 }
 
